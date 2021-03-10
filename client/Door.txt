@@ -1,0 +1,3 @@
+This door leads to a house.
+
+The house is empty.
